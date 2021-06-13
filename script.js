@@ -10,7 +10,7 @@ Assign each input element with click event listener
 */
 allInputFields.forEach((field) => {
   field.addEventListener('click', (e) => {
-    console.log(field.placeholder, 'Clicked');
+    console.log(field.placeholder || field.id, 'Clicked');
     // console.log('The value is', field.value);
   });
 });

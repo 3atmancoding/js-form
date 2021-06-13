@@ -1,5 +1,7 @@
 # seneca-solution
 
+Deployed to vercel :: https://seneca-test-order-form.vercel.app/
+
 ## What needs to be done
 
 ### Using vanilla javascript routine to capture the following form events for each form field
